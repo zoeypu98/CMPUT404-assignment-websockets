@@ -7,6 +7,18 @@ See requirements.org (plain-text) for a description of the project.
 
 Make a shared state Websockets drawing program
 
+Source: 
+
+Abram Hindle github example: https://github.com/uofa-cmput404/cmput404-slides/blob/master/examples/ObserverExampleAJAX/server.py
+
+https://github.com/uofa-cmput404/cmput404-slides/tree/master/examples/WebSocketsExamples
+
+Zoey Pu Assignment 4: https://github.com/zoeypu98/CMPUT404-assignment-ajax
+
+Collaborator: jinzhou
+
+
+
 Prereqs
 =======
 Create a virtual environment and install the required dependencies.
